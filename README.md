@@ -43,6 +43,11 @@
 2. Create Git Cheatsheet.
 3. Create Git Snippets + Documentation
 
+### GitTools
+
+1. GitKraken
+
+
 ## Content
 
 ### What its?
