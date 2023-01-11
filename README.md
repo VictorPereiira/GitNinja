@@ -25,6 +25,24 @@
 🐱‍👤GitNinja - Our GitVerse discoverys.
 
 
+## Project Targets
+
+### Git Study
+
+1. To document all process. ( GitNinja repository )
+2. Learnnig Git Fundamental.
+3. Pratice how to working with git at Github.
+4. Learning Fundamentals of Bitbucket and Gitlab.
+5. Working Github CLI.
+6. CI/CD Fundamental Github actions.
+7. Working with CLI anothers remote sistem code ( Bitbucket and Gitlab )
+
+### GitNinja Github Repository
+
+1. Take notes of git study.
+2. Create Git Cheatsheet.
+3. Create Git Snippets + Documentation
+
 ## Content
 
 ### What its?
