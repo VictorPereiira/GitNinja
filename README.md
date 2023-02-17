@@ -12,8 +12,8 @@
     <a href="#how-to-contribute">How to contribute</a>   
 </p>
 
-<!-- <p align = "center"><img height = '400' src = "https://user-images.githubusercontent.com/64560823/127571876-967811e4-8686-45b2-8140-f35f76dbc58e.gif")
-><p>   -->
+<p align = "center"><img height = '400' src = "https://res.cloudinary.com/practicaldev/image/fetch/s--7lBksXwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/bcd5ajtoc0g5dxzmpfbq.gif")
+><p>  
 
 <div align="center">
     Translate for 
@@ -27,15 +27,16 @@
 
 ## Project Targets
 
-### Git Study
+### Git Roadmap
 
-1. To document all process. ( GitNinja repository )
-2. Learnnig Git Fundamental.
-3. Pratice how to working with git at Github.
-4. Learning Fundamentals of Bitbucket and Gitlab.
-5. Working Github CLI.
-6. CI/CD Fundamental Github actions.
-7. Working with CLI anothers remote sistem code ( Bitbucket and Gitlab )
+1. Learnnig Git Fundamental.
+2. Pratice how to working with git at Github.
+3. Learnnig how to use git igonore file.
+4. Learnning how to use SSH Key access.
+5. Learning Fundamentals of Bitbucket and Gitlab.
+6. Working Github CLI.
+7. CI/CD Fundamental Github actions.
+8. Working with CLI anothers remote sistem code ( Bitbucket and Gitlab )
 
 ### GitNinja Github Repository
 
@@ -49,6 +50,14 @@
 
 
 ## Content
+
+### Box
+
+- Youtube videos
+   - [Push Code to Github with an SSH Key](https://www.youtube.com/watch?v=J1BCa0N7Z7c)
+- Courses
+   - [Source Control with Git](https://acloudguru.com/course/source-control-with-git)
+
 
 ### What its?
 
